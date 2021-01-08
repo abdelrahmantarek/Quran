@@ -1,7 +1,7 @@
 [
 	{
 		"id": 0,
-		"name": "سعد الغامدي",
+		"name": "s سعد الغامدي",
 		"url": "https://raw.githubusercontent.com/abdelrahmantarek/Quran/master/assets/SheikhList/Quran/saad-al4amdy",
 		"image": "https://i.ytimg.com/vi/QoWbS6srlyM/hqdefault.jpg"
 	}
