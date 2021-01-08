@@ -9,15 +9,15 @@
 	{
 		"id": 1,
 		"name": "راشد العفاسي",
-		"url": "https://i1.sndcdn.com/artworks-hjj4CdDmcTkmOV2O-0vSwFQ-t500x500.jpg",
-		"image": "https://i.ytimg.com/vi/QoWbS6srlyM/hqdefault.jpg",
+		"url": "https://raw.githubusercontent.com/abdelrahmantarek/Quran/master/assets/SheikhList/Quran/saad-al4amdy",
+		"image": "https://i1.sndcdn.com/artworks-hjj4CdDmcTkmOV2O-0vSwFQ-t500x500.jpg",
 		"isSelected": "false"
 	},
 	{
 		"id": 2,
 		"name": "فارس عباد",
-		"url": "https://quran.com.kw/wp-content/uploads/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%81%D8%A7%D8%B1%D8%B3-%D8%B9%D8%A8%D8%A7%D8%AF.jpg",
-		"image": "https://i.ytimg.com/vi/QoWbS6srlyM/hqdefault.jpg",
+		"url": "https://raw.githubusercontent.com/abdelrahmantarek/Quran/master/assets/SheikhList/Quran/saad-al4amdy",
+		"image": "https://quran.com.kw/wp-content/uploads/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%81%D8%A7%D8%B1%D8%B3-%D8%B9%D8%A8%D8%A7%D8%AF.jpg",
 		"isSelected": "true"
 	}
 ]
